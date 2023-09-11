@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipak Mani</h1>
 <h3 align="center">"Experienced Data Analyst at Capgemini with 2 Years of Expertise"</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...""
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fjourney-data-analyst-from-entry-level-senior-positions-murali-rohana&psig=AOvVaw29xZab86zD2kxdSAPVBgyj&ust=1694515349415000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjU692vooEDFQAAAAAdAAAAABAI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakmani&label=Profile%20views&color=0e75b6&style=flat" alt="dipakmani" /> </p>
