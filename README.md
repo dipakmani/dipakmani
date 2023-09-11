@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Streamlit**
 
-- 💬 Ask me about **Power BI,SQL,Machine Learning,AWS**
+- 💬 Ask me about **Power BI, SQL, Machine Learning, AWS**
 
 - 📫 How to reach me **dipakmani1@gmail.com**
 
