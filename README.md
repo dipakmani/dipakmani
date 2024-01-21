@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipak Mani</h1>
-<h3 align="center">"Experienced Data Analyst at Capgemini with 2 Years of Expertise"</h3>
+<h3 align="center">"Experienced Data Analyst at Capgemini with 2+ Years of Expertise"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakmani&label=Profile%20views&color=0e75b6&style=flat" alt="dipakmani" /> </p>
 
 - 🌱 I’m currently learning **Streamlit**
